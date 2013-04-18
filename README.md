@@ -10,3 +10,10 @@ Die Materialien in diesem Repository stehen unter der Lizenz
 Die Bedingung "Keine Bearbeitung" nimmt ausdrücklich das Speichern von optisch identischen Versionen in anderen Dateiformaten und Abmessungen aus. Und beim Einsatz des Logos und Icons ist natürlich keine Namensnennung erforderlich.
 
 Urheber: [Marian Steinbach](https://github.com/marians)
+
+
+## Schrift
+
+Das OParl Branding nutzt die **Dosis** Schriftfamilie von [Pablo Impallari](http://www.impallari.com/). Die Familie steht unter der [SIL Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
+
+[Google Webfonts](http://www.google.com/fonts/specimen/Dosis) stellt die Schrift zur Verwendung im Web zur Verfügung. Über das [Webfont Directory](https://code.google.com/p/googlefontdirectory/) können TrueType-Dateien herunter geladen werden.
